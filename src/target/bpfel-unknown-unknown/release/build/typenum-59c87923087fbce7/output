@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/tim/src/solana/solana-name-server/src/target/bpfel-unknown-unknown/release/build/typenum-59c87923087fbce7/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/tim/src/solana/solana-name-server/src/target/bpfel-unknown-unknown/release/build/typenum-59c87923087fbce7/out/op.rs
